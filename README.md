@@ -17,6 +17,7 @@ graph TD
     FE --> BE[Go API]
     BE --> DB[(PostgreSQL)]
     CI[GitHub Actions] --> Docker[Docker Image]
+```
 
 4. Қосымша Инфрақұрылымдық Жоспар
 4.1. Орталар (Environments)
