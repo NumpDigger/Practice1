@@ -12,9 +12,13 @@
 * **Backend:** Go
 * **Инфрақұрылым:** Docker, Kubernetes, Terraform
 
-## 3. CI/CD және Мониторинг
-* **CI/CD:** GitHub Actions (Build -> Test -> Security Scan -> Deploy)
-* **Мониторинг:** Grafana және Sentry
+## 3. Архитектуралық диаграмма
+```mermaid
+graph TD
+    User((Пайдаланушы)) --> FE[Next.js]
+    FE --> BE[Go API]
+    BE --> DB[(PostgreSQL)]
+    CI[GitHub Actions] --> Docker[Docker Image]
 
 ## 4. Қосымша Инфрақұрылымдық Жоспар
 
