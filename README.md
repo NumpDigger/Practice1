@@ -1,6 +1,3 @@
-# Practice1
-# Project Management & Infrastructure 2025
-
 # Project Management & Infrastructure 2025
 
 ## 1. Жобаны жоспарлау (Management)
