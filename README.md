@@ -1,11 +1,12 @@
 # Practice1
 # Project Management & Infrastructure 2025
 
+# Project Management & Infrastructure 2025
+
 ## 1. Жобаны жоспарлау (Management)
 * **Әдістеме:** Scrum
-* **Құралдар:** Jira/GitHub Projects тапсырмаларды басқару үшін
+* **Құралдар:** GitHub Projects
 * **Спринттер:** 2 апталық циклдер
-* **Рөлдер:** PM/Scrum Master, System Analyst, Backend/Frontend Devs, DevOps Engineer
 
 ## 2. Технологиялық стек
 * **Frontend:** Next.js
